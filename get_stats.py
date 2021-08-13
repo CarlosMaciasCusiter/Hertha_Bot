@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 
@@ -6,20 +7,9 @@ HERTA_BERLIN_TEAM_ID = 159
 BUNDASLIGA_1 = 78
 
 headers = {
-    "x-rapidapi-key": "fe5e3c2ef0mshcfbeeee711e5813p1c9814jsn0214aca8a520",
+    "x-rapidapi-key": os.environ['X_RAPIDAPI_KEY'],
     "x-rapidapi-host": "api-football-v1.p.rapidapi.com",
 }
-
-def searchForTeamID():
-    url = "https://api-football-v1.p.rapidapi.com/v3/teams"
-
-    querystring = {"name": "everton", "season": "2021"}
-
-    response = requests.request("GET", url, headers=headers, params=querystring)
-
-    team = json.loads(response.text)
-
-    print(team)
 
 def getPlayers():
 
