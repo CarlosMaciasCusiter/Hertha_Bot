@@ -3,7 +3,7 @@ import requests
 import json
 
 # Usefule ID's
-HERTA_BERLIN_TEAM_ID = 159
+HERTHA_BERLIN_TEAM_ID = 159
 BUNDASLIGA_1 = 78
 
 headers = {
@@ -15,7 +15,7 @@ def getPlayers():
 
     url = "https://api-football-v1.p.rapidapi.com/v3/players"
 
-    querystring = {"team": str(HERTA_BERLIN_TEAM_ID), "season": "2021"}
+    querystring = {"team": str(HERTHA_BERLIN_TEAM_ID), "season": "2021"}
 
     response = requests.request("GET", url, headers=headers, params=querystring)
 
@@ -33,7 +33,7 @@ def getInjuredPlayers():
 
     url = "https://api-football-v1.p.rapidapi.com/v3/injuries"
 
-    querystring = {"team": "81", "season": "2021"}
+    querystring = {"team": str(HERTHA_BERLIN_TEAM_ID), "season": "2020"}
 
     response = requests.request("GET", url, headers=headers, params=querystring)
 
