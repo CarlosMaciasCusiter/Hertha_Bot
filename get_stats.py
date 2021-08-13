@@ -7,9 +7,10 @@ HERTHA_BERLIN_TEAM_ID = 159
 BUNDASLIGA_1 = 78
 
 headers = {
-    "x-rapidapi-key": os.environ['X_RAPIDAPI_KEY'],
+    "x-rapidapi-key": os.environ["X_RAPIDAPI_KEY"],
     "x-rapidapi-host": "api-football-v1.p.rapidapi.com",
 }
+
 
 def getPlayers():
 
@@ -53,5 +54,5 @@ def getInjuredPlayers():
     return injuredPlayers
 
 
-# injuredPlayers = getInjuredPlayers()
-print(getInjuredPlayers())
+with open("injuries.json", "w") as outfile:
+    json.dump(getInjuredPlayers(), outfile)
