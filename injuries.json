@@ -1,247 +1,394 @@
 [
   {
     "name": "D. Boyata",
+    "player_id": 1108,
     "photo": "https://media.api-sports.io/football/players/1108.png",
-    "reason": "Thigh Injury"
+    "reason": "Thigh Injury",
+    "fixture_date": "2021-04-10T13:30:00+00:00",
+    "fixture_timestamp": 1618061400
   },
   {
     "name": "V. Darida",
+    "player_id": 25348,
     "photo": "https://media.api-sports.io/football/players/25348.png",
-    "reason": "Suspended"
+    "reason": "Suspended",
+    "fixture_date": "2021-04-10T13:30:00+00:00",
+    "fixture_timestamp": 1618061400
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-04-10T13:30:00+00:00",
+    "fixture_timestamp": 1618061400
   },
   {
     "name": "E. Lowen",
+    "player_id": 25614,
     "photo": "https://media.api-sports.io/football/players/25614.png",
-    "reason": "Knock"
+    "reason": "Knock",
+    "fixture_date": "2021-04-10T13:30:00+00:00",
+    "fixture_timestamp": 1618061400
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-04-10T13:30:00+00:00",
+    "fixture_timestamp": 1618061400
   },
   {
     "name": "L. Tousart",
+    "player_id": 664,
     "photo": "https://media.api-sports.io/football/players/664.png",
-    "reason": "Suspended"
+    "reason": "Suspended",
+    "fixture_date": "2021-04-10T13:30:00+00:00",
+    "fixture_timestamp": 1618061400
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-03T16:00:00+00:00",
+    "fixture_timestamp": 1620057600
   },
   {
     "name": "E. Lowen",
+    "player_id": 25614,
     "photo": "https://media.api-sports.io/football/players/25614.png",
-    "reason": "Knock"
+    "reason": "Knock",
+    "fixture_date": "2021-05-03T16:00:00+00:00",
+    "fixture_timestamp": 1620057600
   },
   {
     "name": "D. Lukebakio",
+    "player_id": 25458,
     "photo": "https://media.api-sports.io/football/players/25458.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-03T16:00:00+00:00",
+    "fixture_timestamp": 1620057600
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-03T16:00:00+00:00",
+    "fixture_timestamp": 1620057600
   },
   {
     "name": "M. Plattenhardt",
+    "player_id": 25344,
     "photo": "https://media.api-sports.io/football/players/25344.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-03T16:00:00+00:00",
+    "fixture_timestamp": 1620057600
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-06T16:30:00+00:00",
+    "fixture_timestamp": 1620318600
   },
   {
     "name": "E. Lowen",
+    "player_id": 25614,
     "photo": "https://media.api-sports.io/football/players/25614.png",
-    "reason": "Muscle Injury"
+    "reason": "Muscle Injury",
+    "fixture_date": "2021-05-06T16:30:00+00:00",
+    "fixture_timestamp": 1620318600
   },
   {
     "name": "D. Lukebakio",
+    "player_id": 25458,
     "photo": "https://media.api-sports.io/football/players/25458.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-06T16:30:00+00:00",
+    "fixture_timestamp": 1620318600
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-06T16:30:00+00:00",
+    "fixture_timestamp": 1620318600
   },
   {
     "name": "M. Plattenhardt",
+    "player_id": 25344,
     "photo": "https://media.api-sports.io/football/players/25344.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-06T16:30:00+00:00",
+    "fixture_timestamp": 1620318600
   },
   {
     "name": "M. Guendouzi",
+    "player_id": 1454,
     "photo": "https://media.api-sports.io/football/players/1454.png",
-    "reason": "Suspended"
+    "reason": "Suspended",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "S. Khedira",
+    "player_id": 868,
     "photo": "https://media.api-sports.io/football/players/868.png",
-    "reason": "Calf Injury"
+    "reason": "Calf Injury",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "E. Lowen",
+    "player_id": 25614,
     "photo": "https://media.api-sports.io/football/players/25614.png",
-    "reason": "Muscle Injury"
+    "reason": "Muscle Injury",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "D. Lukebakio",
+    "player_id": 25458,
     "photo": "https://media.api-sports.io/football/players/25458.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "M. Plattenhardt",
+    "player_id": 25344,
     "photo": "https://media.api-sports.io/football/players/25344.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-09T16:00:00+00:00",
+    "fixture_timestamp": 1620576000
   },
   {
     "name": "J. Cordoba",
+    "player_id": 24810,
     "photo": "https://media.api-sports.io/football/players/24810.png",
-    "reason": "Ankle Injury"
+    "reason": "Ankle Injury",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "M. Cunha",
+    "player_id": 1165,
     "photo": "https://media.api-sports.io/football/players/1165.png",
-    "reason": "Knock"
+    "reason": "Knock",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "M. Guendouzi",
+    "player_id": 1454,
     "photo": "https://media.api-sports.io/football/players/1454.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "S. Khedira",
+    "player_id": 868,
     "photo": "https://media.api-sports.io/football/players/868.png",
-    "reason": "Calf Injury"
+    "reason": "Calf Injury",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "M. Mittelstadt",
+    "player_id": 25342,
     "photo": "https://media.api-sports.io/football/players/25342.png",
-    "reason": "Concussion"
+    "reason": "Concussion",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-12T16:00:00+00:00",
+    "fixture_timestamp": 1620835200
   },
   {
     "name": "J. Cordoba",
+    "player_id": 24810,
     "photo": "https://media.api-sports.io/football/players/24810.png",
-    "reason": "Ankle Injury"
+    "reason": "Ankle Injury",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "M. Cunha",
+    "player_id": 1165,
     "photo": "https://media.api-sports.io/football/players/1165.png",
-    "reason": "Knock"
+    "reason": "Knock",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "V. Darida",
+    "player_id": 25348,
     "photo": "https://media.api-sports.io/football/players/25348.png",
-    "reason": "Suspended"
+    "reason": "Suspended",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "M. Guendouzi",
+    "player_id": 1454,
     "photo": "https://media.api-sports.io/football/players/1454.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "S. Khedira",
+    "player_id": 868,
     "photo": "https://media.api-sports.io/football/players/868.png",
-    "reason": "Calf Injury"
+    "reason": "Calf Injury",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "D. Lukebakio",
+    "player_id": 25458,
     "photo": "https://media.api-sports.io/football/players/25458.png",
-    "reason": "Suspended"
+    "reason": "Suspended",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "M. Mittelstadt",
+    "player_id": 25342,
     "photo": "https://media.api-sports.io/football/players/25342.png",
-    "reason": "Concussion"
+    "reason": "Concussion",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "K. Piatek",
+    "player_id": 1651,
     "photo": "https://media.api-sports.io/football/players/1651.png",
-    "reason": "Ankle Injury"
+    "reason": "Ankle Injury",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "J. Ngankam",
+    "player_id": 162771,
     "photo": "https://media.api-sports.io/football/players/162771.png",
-    "reason": "Knee Injury"
+    "reason": "Knee Injury",
+    "fixture_date": "2021-05-15T13:30:00+00:00",
+    "fixture_timestamp": 1621085400
   },
   {
     "name": "J. Cordoba",
+    "player_id": 24810,
     "photo": "https://media.api-sports.io/football/players/24810.png",
-    "reason": "Ankle Injury"
+    "reason": "Ankle Injury",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "M. Cunha",
+    "player_id": 1165,
     "photo": "https://media.api-sports.io/football/players/1165.png",
-    "reason": "Ankle Injury"
+    "reason": "Ankle Injury",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "M. Guendouzi",
+    "player_id": 1454,
     "photo": "https://media.api-sports.io/football/players/1454.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "R. Jarstein",
+    "player_id": 25333,
     "photo": "https://media.api-sports.io/football/players/25333.png",
-    "reason": "Illness"
+    "reason": "Illness",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "M. Mittelstadt",
+    "player_id": 25342,
     "photo": "https://media.api-sports.io/football/players/25342.png",
-    "reason": "Concussion"
+    "reason": "Concussion",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "L. Netz",
+    "player_id": 163069,
     "photo": "https://media.api-sports.io/football/players/163069.png",
-    "reason": "Broken ankle"
+    "reason": "Broken ankle",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "K. Piatek",
+    "player_id": 1651,
     "photo": "https://media.api-sports.io/football/players/1651.png",
-    "reason": "Ankle Injury"
+    "reason": "Ankle Injury",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   },
   {
     "name": "J. Torunarigha",
+    "player_id": 25346,
     "photo": "https://media.api-sports.io/football/players/25346.png",
-    "reason": "Suspended"
+    "reason": "Suspended",
+    "fixture_date": "2021-05-22T13:30:00+00:00",
+    "fixture_timestamp": 1621690200
   }
 ]

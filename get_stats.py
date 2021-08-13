@@ -46,8 +46,11 @@ def getInjuredPlayers():
         injuredPlayers.append(
             {
                 "name": injury["player"]["name"],
+                "player_id": injury["player"]["id"],
                 "photo": injury["player"]["photo"],
                 "reason": injury["player"]["reason"],
+                "fixture_date": injury["fixture"]["date"],
+                "fixture_timestamp": injury["fixture"]["timestamp"]
             }
         )
 
